@@ -1,0 +1,57 @@
+# ======================
+# Global Parent Gitignore
+# ======================
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+.DS_Store?
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ======================
+# Java
+# ======================
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+
+# ======================
+# C++
+# ======================
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# ======================
+# C#
+# ======================
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# ======================
+# Common Build & Cache
+# ======================
+dist/
+out/
+*.tmp
+*.cache
+*.bak
+*.lock
