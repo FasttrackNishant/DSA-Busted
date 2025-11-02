@@ -6,7 +6,7 @@ Each solution follows the **Brute → Better → Optimal** approach with clear c
 ## 📁 Structure
 - `C++/` – Core DSA problems and patterns  
 - `Java/` – Optional Java versions  
-- `Old_DSA/` – Earlier or experimental solutions  
+- `Old_DSA/` – Earlier solved Problems - College Time Buddy !  
 
 ## 🧠 Focus
 - Strengthen problem-solving for **interviews**  
